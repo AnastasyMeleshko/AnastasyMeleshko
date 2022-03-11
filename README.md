@@ -26,7 +26,7 @@
 
 ### Education:
 
-* **Belarussian State University, 2008-2013**
+* **Belarussian State University, 2013-2015**
 
     Faculty: Of retraining and upgrading of
     qualifications at the Institute of Journalism
@@ -34,7 +34,7 @@
     Specialty: Photojournalism
 
 
-* **Belarussian State Economic University, 2012-2017**
+* **Belarussian State Economic University, 2008-2013**
 
   Faculty: Accounting and Economics
 
