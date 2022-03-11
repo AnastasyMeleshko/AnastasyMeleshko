@@ -10,20 +10,15 @@
 ### Skills:
 
 * HTML5
-* CSS3
-* SAAS
+* CSS3, SAAS
 * JavaScript
 * NPM
 * Webpack 
-* React 
+* React, Redux 
 * Jest
-* Redux 
-* Git
-* GitHub
-* Figma
-* Adobe Photoshop
-* VS Code IDE
-* WebStorm IDE
+* Git, GitHub
+* Figma, Adobe Photoshop
+* VS Code IDE, WebStorm IDE
 
 ### CodeWars:
 
