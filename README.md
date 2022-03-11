@@ -1,4 +1,4 @@
-### Front-end Developer
+# Front-end Developer
 
 ### Contact Information:
 
@@ -31,29 +31,28 @@
 
 ### Education:
 
-* **Belarussian State University**
+* **Belarussian State University, 2008-2013**
 
     Faculty: Of retraining and upgrading of
     qualifications at the Institute of Journalism
 
     Specialty: Photojournalism
-    2012-2017
 
 
-* **Belarussian State Economic University**
+* **Belarussian State Economic University, 2012-2017**
 
   Faculty: Accounting and Economics
 
   Specialty: Accounting, analysis and audit
   in foreign economic activity
-  2008-2013
 
-* **Courses:**
-    * **RS Schools Course «JS/FE Pre-School 2022»** (passed in Mar, 2022)
-    * **RS Schools Course «JavaScript/Front-end»** (in progress)
-    * **Intellect fox Frontend development course»** (in progress)
-    * **Self-study:**
-        * [JavaScript](https://learn.javascript.ru/)
+### Courses:
+
+* [RS Schools Course «JS/FE Pre-School 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022)
+* [RS Schools Course «JavaScript/Front-end»](https://rs.school/js/) (in progress)
+* [Intellect fox](https://intellectfox.by) Frontend development course (in progress)
+* Self-study:
+  * [JavaScript](https://learn.javascript.ru/)
 
 ### English:
 
