@@ -43,7 +43,7 @@
 
 ### Courses:
 
-* [RS Schools Course «JS/FE Pre-School 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022)
+* [RS Schools Course «JS/FE Pre-School 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022). My certificate is [here](https://app.rs.school/certificate/i8528jrw).
 * [RS Schools Course «JavaScript/Front-end»](https://rs.school/js/) (in progress)
 * [Intellect fox](https://intellectfox.by) Frontend development course (in progress)
 * Self-study:
