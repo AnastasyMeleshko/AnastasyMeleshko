@@ -43,8 +43,8 @@
 
 ### Courses:
 
-* [RS Schools Course «JS/FE Pre-School 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022). My certificate is [here](https://app.rs.school/certificate/e1n49i77).
-* [RS Schools Course «JavaScript/Front-end»](https://rs.school/js/) (in progress)
+* [The Rolling Scopes School. JS / Frontend Development Course. Stage 0. Dec 2021 - Feb 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022). My certificate is [here](https://app.rs.school/certificate/e1n49i77).
+* [The Rolling Scopes School. JS / Frontend Development Course. Stage 1. March 2022 - May 2022.](https://rs.school/js/)
 * [Intellect fox](https://intellectfox.by) Frontend development course (in progress)
 * Self-study:
   * [JavaScript](https://learn.javascript.ru/)
