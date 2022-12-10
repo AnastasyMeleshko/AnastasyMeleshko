@@ -29,6 +29,7 @@
 * **EHU / EPAM School of Digital Engineering, 2022-now**
 
     Faculty: Informatics
+    
     Specialty: Computer Science
 
 * **Belarussian State University, 2013-2015**
