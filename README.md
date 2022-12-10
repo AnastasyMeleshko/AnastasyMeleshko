@@ -26,6 +26,11 @@
 
 ### Education:
 
+* **EHU / EPAM School of Digital Engineering, 2022-now**
+
+    Faculty: Informatics
+    Specialty: Computer Science
+
 * **Belarussian State University, 2013-2015**
 
     Faculty: Of retraining and upgrading of
@@ -45,7 +50,7 @@
 
 * [The Rolling Scopes School. JS / Frontend Development Course. Stage 0. Dec 2021 - Feb 2022»](https://rs.school/js-stage0/) (passed in Mar, 2022). My certificate is [here](https://app.rs.school/certificate/e1n49i77).
 * [The Rolling Scopes School. JS / Frontend Development Course. Stage 1. March 2022 - May 2022.](https://rs.school/js/)
-* [Intellect fox](https://intellectfox.by) Frontend development course (in progress)
+* [Intellect fox](https://intellectfox.by) Frontend development course (passed in Jun'22)
 * Self-study:
   * [JavaScript](https://learn.javascript.ru/)
 
