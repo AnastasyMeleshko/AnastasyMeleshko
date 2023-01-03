@@ -22,7 +22,7 @@
 
 ### CodeWars:
 
-![CodeWars](https://www.codewars.com/users/AnastasyMeleshko/badges/large)
+![CodeWars](https://www.codewars.com/users/rsschool_15fc3ad88c3c9562/badges/large)
 
 ### Education:
 
