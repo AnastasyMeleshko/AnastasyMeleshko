@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus (ready for relocation)
 * **LinkedIn:** [Anastasya Meleshko](https://www.linkedin.com/in/anastasya-meleshko-6104a8191/)
 * **GitHub:** [AnastasyMeleshko](https://github.com/AnastasyMeleshko)
-* **CodeWars:** [Anastasy Meleshko](https://www.codewars.com/users/AnastasyMeleshko)
+* **CodeWars:** [Anastasy Meleshko](https://www.codewars.com/users/rsschool_15fc3ad88c3c9562)
 
 ### Skills:
 
